@@ -20,7 +20,7 @@ This project implements an **Agentic Honey-Pot** — an AI-powered system that:
 
 ---
 ##  Work Flow 
-<img width="1512" height="1570" alt="Honeypot_Flowchart" src="https://github.com/user-attachments/assets/6c1609d1-530a-42a3-ae03-7088288b1213" />
+<img width="712" height="1570" alt="Honeypot_Flowchart" src="https://github.com/user-attachments/assets/6c1609d1-530a-42a3-ae03-7088288b1213" />
 
 ## 🏗️ System Architecture
 
