@@ -1,0 +1,18 @@
+# Agentic Honeypot for Scam Detection - Dependencies
+# ==================================================
+
+# Web Framework
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# Google GenAI SDK (new SDK)
+google-genai>=1.0.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Data Validation (comes with FastAPI)
+pydantic>=2.0.0
+
+# HTTP Client (for testing)
+httpx>=0.25.0
